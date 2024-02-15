@@ -1,0 +1,14 @@
+C:\Users\LENOVO USA\Documents\Softclube\С#\week1\day2\Hometask\Task3\bin\Debug\net8.0\Task3.exe
+C:\Users\LENOVO USA\Documents\Softclube\С#\week1\day2\Hometask\Task3\bin\Debug\net8.0\Task3.deps.json
+C:\Users\LENOVO USA\Documents\Softclube\С#\week1\day2\Hometask\Task3\bin\Debug\net8.0\Task3.runtimeconfig.json
+C:\Users\LENOVO USA\Documents\Softclube\С#\week1\day2\Hometask\Task3\bin\Debug\net8.0\Task3.dll
+C:\Users\LENOVO USA\Documents\Softclube\С#\week1\day2\Hometask\Task3\bin\Debug\net8.0\Task3.pdb
+C:\Users\LENOVO USA\Documents\Softclube\С#\week1\day2\Hometask\Task3\obj\Debug\net8.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO USA\Documents\Softclube\С#\week1\day2\Hometask\Task3\obj\Debug\net8.0\Task3.AssemblyInfoInputs.cache
+C:\Users\LENOVO USA\Documents\Softclube\С#\week1\day2\Hometask\Task3\obj\Debug\net8.0\Task3.AssemblyInfo.cs
+C:\Users\LENOVO USA\Documents\Softclube\С#\week1\day2\Hometask\Task3\obj\Debug\net8.0\Task3.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO USA\Documents\Softclube\С#\week1\day2\Hometask\Task3\obj\Debug\net8.0\Task3.dll
+C:\Users\LENOVO USA\Documents\Softclube\С#\week1\day2\Hometask\Task3\obj\Debug\net8.0\refint\Task3.dll
+C:\Users\LENOVO USA\Documents\Softclube\С#\week1\day2\Hometask\Task3\obj\Debug\net8.0\Task3.pdb
+C:\Users\LENOVO USA\Documents\Softclube\С#\week1\day2\Hometask\Task3\obj\Debug\net8.0\Task3.genruntimeconfig.cache
+C:\Users\LENOVO USA\Documents\Softclube\С#\week1\day2\Hometask\Task3\obj\Debug\net8.0\ref\Task3.dll
